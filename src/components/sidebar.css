@@ -1,0 +1,21 @@
+
+
+
+.search{
+    display: flex;
+    align-items: center;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+}
+.search-text{
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #f0f2f5;
+    border: 1px solid #f0f2f5;
+
+}
+.chat-link{
+    text-decoration: none;
+}

@@ -1,0 +1,15 @@
+
+
+.main-right{
+    background-color: #f0f2f5;
+    height: 100vh;
+}
+.right-image{
+    width: 250px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.right-text{
+    font-weight: 400;
+    text-align: center;
+}
